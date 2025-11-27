@@ -13,7 +13,7 @@ To set up the website locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/burj-al-rumaila.git
+   git clone https://github.com/m1oslem/burj-al-rumaila.git
    ```
 2. **Navigate to the project directory:**
    ```bash
